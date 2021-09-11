@@ -4,3 +4,4 @@ Code used for DeAngelo et al. (2021), Energy systems in scenarios at net-zero CO
 * Link to database: https://data.ene.iiasa.ac.at/iamc-1.5c-explorer/#/downloads
 * Version of data used: All regions, r2.0
 * Version of metadata used: r2.0
+* DOI: https://zenodo.org/badge/latestdoi/405182506
